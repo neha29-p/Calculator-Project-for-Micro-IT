@@ -44,6 +44,22 @@ calculator application output:
   
   Result: 15
 
+  ## 📱 Applications
+
+The Calculator application can be used in:
+
+- **Educational Purposes**: Helps students and learners understand the basic arithmetic operations.
+
+- **Everyday Math**: Useful for day-to-day simple calculations like grocery billing, splitting bills, or basic budgeting.
+
+- **Developmental Learning**: Acts as a beginner project to understand GUI handling, event-driven programming, and Python fundamentals.
+
+- **Quick Calculations**: Provides an easy and fast way to calculate without relying on physical calculators.
+
+- **Offline Utility**: Can be used without internet access once downloaded and set up.
+
+This project is ideal for beginners looking to start their journey in Python and build practical applications.
+
 👩‍💻 Author :
 
 
