@@ -37,8 +37,8 @@ This is a simple calculator project developed as part of the Micro-IT coursework
 Enter choice: 1
 Enter first number: 10
 Enter second number: 5
-
 Result: 15
+
 👩‍💻 Author
    PulamariSetty Neha
    B.Tech, Electronics and Communication Engineering
