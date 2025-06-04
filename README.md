@@ -33,16 +33,26 @@ This is a simple calculator project developed as part of the Micro-IT coursework
 2. Subtract
 3. Multiply
 4. Divide
+
 calculator application output:
+
   Enter choice: 1
+  
   Enter first number: 10
+  
   Enter second number: 5
+  
   Result: 15
 
 👩‍💻 Author :
+
+
    PulamariSetty Neha
+
    B.Tech, Electronics and Communication Engineering
+   
    Rajiv Gandhi University of Knowledge and Technology
 
 📌 Note :
+
    This project is created for educational purposes as a part of the Micro-IT lab assignment.
